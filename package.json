@@ -1,0 +1,16 @@
+{
+  "name": "hyper-ninja",
+  "version": "0.1.1",
+  "description": "Hyper theme inspired by Atom's ninja-ui-syntax.",
+  "main": "index.js",
+  "repository": "https://github.com/licatajustin/hyper-ninja.git",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "ninja"
+  ],
+  "author": "Justin Licata",
+  "license": "MIT",
+  "dependencies": {}
+}
